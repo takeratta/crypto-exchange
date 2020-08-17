@@ -37,10 +37,10 @@
   "dependencies": {
     "bitfinex": "^1.0.3",
     "coinbase": "^2.0.6",
-    "gdax": "^0.4.2",
+    "gdax": "^0.5.1",
     "gemini-api": "github:passabilities/gemini-api-node#deposit-address",
     "kraken-api": "^0.1.7",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.20",
     "node.bittrex.api": "^0.3.3",
     "node.liqui.io": "^1.1.0",
     "poloniex-api-node": "^1.3.1",
